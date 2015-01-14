@@ -71,3 +71,5 @@ objectDiff(a, b);
 
 [MIT](http://opensource.org/licenses/MIT) ©
 [src.agency](http://src.agency) / Thomas Jensen
+[npm link for object-diff](https://www.npmjs.com/package/object-diff)
+
